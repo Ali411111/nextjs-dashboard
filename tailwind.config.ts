@@ -18,6 +18,11 @@ const config: Config = {
           600: '#2F6FEB',
         },
       },
+      fontFamily:{
+        'poppinsRegular':'Poppins Regular',
+        'poppinsMedium':'Poppins Medium',
+        'poppinsSemiBold':'Poppins SemiBold',
+      }
     },
     keyframes: {
       shimmer: {
